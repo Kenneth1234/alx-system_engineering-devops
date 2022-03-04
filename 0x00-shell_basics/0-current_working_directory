@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-/bin/bash
-dirname "$(realpath $0)"
-=======
 #!/bin/bash
 dirname "$(realpath $0)"
->>>>>>> 06fdd739778bed040ab0caf13577bf129d24906d
